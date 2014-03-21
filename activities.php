@@ -1,8 +1,6 @@
 <?php
 defined( '_JEXEC' ) or die;
 
-
-new position
 class plgContentActivities extends JPlugin
 {
 	public function onContentPrepare($context, &$article, &$params, $page = 0)
